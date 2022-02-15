@@ -17,16 +17,19 @@ jobs:
             dingtalk_token: DINGTALK_TOKEN
             pushplus_token: PUSHPLUS_TOKEN
             serverchan_key: SERVERCHAN_KEY
+            #2: xn
           - username: ZJU_USERNAME2
             password: ZJU_PASSWORD2
             dingtalk_token: DINGTALK_TOKEN2
             pushplus_token: PUSHPLUS_TOKEN2
             serverchan_key: SERVERCHAN_KEY2
-          - username: ZJU_USERNAME3
-            password: ZJU_PASSWORD3
-            dingtalk_token: DINGTALK_TOKEN3
-            pushplus_token: PUSHPLUS_TOKEN3
-            serverchan_key: SERVERCHAN_KEY3
+            #3:xu chen kai
+         # - username: ZJU_USERNAME3
+         #   password: ZJU_PASSWORD3
+         #   dingtalk_token: DINGTALK_TOKEN3
+         #   pushplus_token: PUSHPLUS_TOKEN3
+         #   serverchan_key: SERVERCHAN_KEY3
+            #4:li yifei
           - username: ZJU_USERNAME4
             password: ZJU_PASSWORD4
             dingtalk_token: DINGTALK_TOKEN4
